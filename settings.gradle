@@ -1,0 +1,2 @@
+rootProject.name = "College Chart"
+include ':app'
